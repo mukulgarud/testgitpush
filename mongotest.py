@@ -8,6 +8,7 @@ d = {
     "name": "mukul",
     "surname": "garud",
     "email": "mukulgarud28@gmail.com"
+    "mobile_no": 9820610357
 }
 
 db1 = client['mongotest']
